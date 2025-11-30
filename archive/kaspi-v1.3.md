@@ -1,6 +1,7 @@
 ﻿# Архив Kaspi v1.3
 
 ## Дата: 2025-11-30
+
 ## Артефакты:
 - kaspi-test-003.md
 - reports/2025-12-02-report.md
